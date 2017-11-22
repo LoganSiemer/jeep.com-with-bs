@@ -1,0 +1,61 @@
+.bg {
+	background-color: black;
+}
+
+.bg-color {
+	background-color: black;
+}
+
+.bg-link {
+	background-color: white;
+}
+
+.Menu {
+    display: flex;
+    justify-content: space-between;
+	color: white;
+}
+
+.under-image{
+	background-color: lightgray;
+}
+
+.card {
+	background-color: darkgray;
+
+}
+
+.main-content {
+	max-width: 1450px;
+	margin: auto;
+}
+
+.under-gallery {
+	background-color: lightgray;
+}
+
+/*.ribbn {
+	margin:30px 0px 30px 30px;
+}
+
+.h1 {
+	margin-top: 30px;
+}*/
+
+.alignment {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
